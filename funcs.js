@@ -13,3 +13,7 @@ const generateToken = () => {
 const generateHash = () => {
     return false
 }
+
+const createUser = () => {
+    return false
+}
