@@ -25,3 +25,7 @@ const checkAdmin = () => {
 const checkNews = () => {
     return false
 }
+
+const shareMessage = () => {
+    return false
+}
