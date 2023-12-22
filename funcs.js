@@ -17,3 +17,11 @@ const generateHash = () => {
 const createUser = () => {
     return false
 }
+
+const checkAdmin = () => {
+    return false
+}
+
+const checkNews = () => {
+    return false
+}
