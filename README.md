@@ -9,10 +9,8 @@ const testForm = new validForm()
 ```
 
 #### unOrder List 
-1.JavaScript -> (`React`,`Vue`,`Angular`)
-2.Python -> (`Jango`)
 
--Header 
-    Item1
-    Item2
-    Item3
+- Header 
+    - Item1
+    - Item2
+    - Item3
