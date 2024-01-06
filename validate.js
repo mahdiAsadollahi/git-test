@@ -5,3 +5,7 @@ const userValidate = () => {
 const testFunc = () => {
     return false
 }
+
+const adminValidate = () => {
+    return false
+}
