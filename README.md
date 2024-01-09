@@ -14,3 +14,12 @@ const testForm = new validForm()
     - Item1
     - Item2
     - Item3
+
+___
+
+# link
+
+[test Link](https://google.com)
+
+# image
+![google photo](https://en.wikipedia.org/wiki/File:Bubble_Tea.png)
